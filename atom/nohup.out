@@ -1,0 +1,6 @@
+[5087:1001/155539:ERROR:browser_main_loop.cc(161)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+[5189:1001/155541:INFO:renderer_main.cc(227)] Renderer process started
+App load time: 911ms
+[5087:1001/155553:INFO:CONSOLE(18)] "Window load time: 10869ms", source: /opt/atom/resources/app/src/window-bootstrap.js (18)
+[5087:1001/173632:INFO:CONSOLE(464)] "Error deactivating package 'grammar-selector'", source: /opt/atom/resources/app/src/package.js (464)
+[5087:1001/173633:WARNING:raw_channel_posix.cc(214)] recvmsg: Connection reset by peer

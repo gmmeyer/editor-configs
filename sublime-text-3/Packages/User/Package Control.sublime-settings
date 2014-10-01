@@ -1,0 +1,46 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS Snippets",
+		"ApplySyntax",
+		"Backbone.js",
+		"BeautifyRuby",
+		"Better JavaScript",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorPicker",
+		"Decent Color Scheme",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"Perv - Color Scheme",
+		"Predawn",
+		"QuickThemes",
+		"RailsCasts Colour Scheme",
+		"Railscasts Extended",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublemacspro",
+		"Sublime-KnockoutJS-Snippets",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter",
+		"TextMate-Kuroir-Theme",
+		"Theme - Afterglow",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Sodarized",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/MarioRicalde/TextMate-Kuroir-Theme.git"
+	]
+}
