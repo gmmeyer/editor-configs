@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.fuse_hidden*"
@@ -18,14 +18,13 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Theme - Sodarized",
+		"sublemacspro",
 		"Vintage",
-		"SideBarEnhancements",
-		"sublemacspro"
+		"JavaScript"
 	],
 	"remember_open_files": false,
 	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }

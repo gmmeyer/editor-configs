@@ -4,6 +4,20 @@
   'showOnStartup': false
 'metrics':
   'userId': '986ea0be6f12380a2af9ce05c8afe860e9e5366c'
-'core': {}
+'core':
+  'disabledPackages': [
+    'atom-color-highlight'
+    'file-icons'
+  ]
+  'themes': [
+    'seti-ui'
+    'seti-monokai'
+  ]
+  'ignoredNames': [
+    '*.pyc'
+    '.pyc'
+  ]
 'editor':
+  'fontFamily': 'DejaVu Sans Mono'
+  'fontSize': 15
   'invisibles': {}

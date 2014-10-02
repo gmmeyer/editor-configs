@@ -9,6 +9,7 @@
 	[
 		"bash",
 		"sh",
-		"zsh"
+		"zsh",
+		"bash_profile"
 	]
 }
