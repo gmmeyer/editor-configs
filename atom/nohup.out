@@ -11,3 +11,6 @@ App load time: 199ms
 [24459:1002/142956:INFO:CONSOLE(0)] "Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'self'".
 ", source:  (0)
 [24459:1002/142956:INFO:CONSOLE(416)] "Error activating package config for “atom-beautify”", source: /opt/atom/resources/app/node_modules/settings-view/lib/settings-view.js (416)
+[24459:1002/171601:WARNING:raw_channel_posix.cc(214)] recvmsg: Connection reset by peer
+atom: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+[24533:1002/183640:ERROR:x11_util.cc(81)] X IO error received (X server probably went away)

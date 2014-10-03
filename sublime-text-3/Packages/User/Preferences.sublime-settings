@@ -1,9 +1,10 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"color_scheme": "Packages/User/Perv Orange (SL).tmTheme",
 	"file_exclude_patterns":
 	[
-		"*.fuse_hidden*"
+		"*.fuse_hidden*",
+		"*.pyc"
 	],
 	"folder_exclude_patterns":
 	[
