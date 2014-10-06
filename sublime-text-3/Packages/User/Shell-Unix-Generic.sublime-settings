@@ -10,6 +10,7 @@
 		"bash",
 		"sh",
 		"zsh",
-		"bash_profile"
+		"bash_profile",
+		"zshrc"
 	]
 }
