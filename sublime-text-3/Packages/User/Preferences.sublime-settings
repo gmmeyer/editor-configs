@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.fuse_hidden*",
@@ -15,13 +15,13 @@
 		"tmp/cache"
 	],
 	"font_face": "Ubuntu",
-	"font_size": 13,
+	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"sublemacspro",
-		"Vintage",
-		"JavaScript"
+		"Vintage"
 	],
 	"remember_open_files": false,
 	"tab_size": 2,
