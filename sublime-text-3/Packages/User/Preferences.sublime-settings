@@ -20,8 +20,8 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"sublemacspro",
-		"Vintage"
+		"Vintage",
+		"sublemacspro"
 	],
 	"remember_open_files": false,
 	"tab_size": 2,
